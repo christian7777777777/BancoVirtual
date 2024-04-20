@@ -23,7 +23,6 @@
                             <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" id="servicios">Servicios</a>
                             <div class="dropdown-menu" aria-labelledby="servicios">
                                 <a class="dropdown-item" href="#">Prestamos</a>
-                                <a class="dropdown-item" href="#">Prestamos</a>
                                 <a class="dropdown-item" href="#">Tarjetas</a>
                                 <a class="dropdown-item" href="#">Inversiones</a>
                                 <div class="dropdown-divider"></div>
@@ -110,7 +109,6 @@
                 </div>
             </div>
         </div>
-
         <div class="container">
             <div class="page-header" id="banner">
                 <div class="row">
@@ -125,5 +123,4 @@
                     </div>
                 </div>
             </div>
-
             <div class="row">
