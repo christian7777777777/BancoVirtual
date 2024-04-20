@@ -1,13 +1,25 @@
 </div>
-                </div>
-                
-            </div>
-            <div class="card-footer text-center">
-                <footer>
-                    <p>Copyright &copy; 2024 Banco Virtual</p>
-                </footer>
-            </div>
+      <footer id="footer">
+        <div class="row">
+          <div class="col-lg-12">
+            <ul class="list-unstyled">
+              <li class="float-end"><a href="#top">Back to top</a></li>
+              <li><a href="https://blog.bootswatch.com/">Blog</a></li>
+              <li><a href="https://blog.bootswatch.com/rss/">RSS</a></li>
+              <li><a href="https://twitter.com/bootswatch">Twitter</a></li>
+              <li><a href="https://github.com/thomaspark/bootswatch">GitHub</a></li>
+              <li><a href="../help/#api">API</a></li>
+              <li><a href="../help/#donate">Donate</a></li>
+            </ul>
+            <p>Made by <a href="https://thomaspark.co/">Thomas Park</a>.</p>
+            <p>Code released under the <a href="https://github.com/thomaspark/bootswatch/blob/master/LICENSE">MIT License</a>.</p>
+            <p>Based on <a href="https://getbootstrap.com/" rel="nofollow">Bootstrap</a>. Icons from <a href="https://icons.getbootstrap.com/" rel="nofollow">Bootstrap Icons</a>. Web fonts from <a href="https://fonts.google.com/" rel="nofollow">Google</a>.</p>
+
+          </div>
         </div>
-        <script src="https://bootswatch.com//_vendor/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
-    </body>
+      </footer>
+    </div>
+
+    <script src="javascript/bootstrap.bundle.min.js"></script>
+  </body>   
 </html>
