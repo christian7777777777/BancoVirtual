@@ -5,7 +5,6 @@
     if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
         if($_POST['Boton']=="Registrar"){
-            
             $nombreUsuario = trim($_POST['NombreUsuario']);
             $apellidoUsuario = trim($_POST['ApellidoUsuario']);
             $cedulaUsuario = trim($_POST['CedulaUsuario']);
